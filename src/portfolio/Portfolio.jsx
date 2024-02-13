@@ -1,7 +1,7 @@
 import React from 'react'
-import IMG1 from '../assests/Screenshot (173).png'
+import IMG1 from '../assests/sih_dustbin_png.png'
 import IMG2 from '../assests/portfolio_proj_image_medical.png'
-import IMG3 from '../assests/portfolio_proj_image.png'
+import IMG3 from '../assests/dineIn png.png'
 
 import '../portfolio/portfolio.css'
 import {useState} from 'react'

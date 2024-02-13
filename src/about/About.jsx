@@ -38,8 +38,12 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque dolorem aliquid quis iure repudiandae corrupti delectus. Natus harum earum nostrum, velit debitis tenetur nihil soluta maxime doloribus autem! Sapiente, quas.
-
+          As a passionate web developer with a keen interest in learning and adapting to new technologies, 
+          my career objective is to leverage my skills and creativity to contribute effectively to innovative
+           web projects. I am committed to continuous learning and improvement, striving to stay updated with
+            the latest trends and advancements in the field. Seeking opportunities to
+             apply my knowledge and skills in a dynamic and challenging environment, where I can make meaningful 
+             contributions and grow both personally and professionally.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
