@@ -12,7 +12,7 @@ const data =[
     title : "Smart Bin for MetroCities",
     github : "https://github.com/Sivasangeeth12/dustPin_mapTracker",
     description : "Project builted for SIH2023",
-    demo : "as"
+    demo : " https://bitfusion-715cb.web.app"
   },
   {
     id : 2,
@@ -20,7 +20,7 @@ const data =[
     title : "Medical Billing System",
     github : "https://github.com/Sivasangeeth12/hospital-management",
     description : "A admin side project to maintain the upcoming and availability of products.",
-    demo : "as"
+    demo : "https://flier.netlify.app"
   },
   {
     id : 3,
@@ -28,7 +28,7 @@ const data =[
     title : "Food Ordering Site",
     github : "https://github.com/Sivasangeeth12/DineIn_Ordering_System",
     description : "Console application to order the food items according to the time basis.",
-    demo : "as"
+    
   },
 ]
 
@@ -62,16 +62,18 @@ const Portfolio = () => {
               >
                 Github
               </a>
-             {/* {demo && (
+              {demo && (
                 <a
                   href={demo}
-                  className="btn btn-primary"
+                  className="btn"
                   target="_blank"
                   rel="noopener noreferrer"
+                  style={{marginTop :'15px'}}
+
                 >
                   Live Demo
                 </a>
-             )} */  }
+             )} 
             </div>
           </article>
         ))}

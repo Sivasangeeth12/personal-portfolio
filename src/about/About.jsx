@@ -45,7 +45,7 @@ const About = () => {
              apply my knowledge and skills in a dynamic and challenging environment, where I can make meaningful 
              contributions and grow both personally and professionally.
           </p>
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          {/* <a href="#contact" className='btn btn-primary'>Let's Talk</a> */}
         </div>
       </div>
     </section>
