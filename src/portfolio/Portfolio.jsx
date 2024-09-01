@@ -2,6 +2,7 @@ import React from 'react'
 import IMG1 from '../assests/sih_dustbin_png.png'
 import IMG2 from '../assests/portfolio_proj_image_medical.png'
 import IMG3 from '../assests/dineIn png.png'
+import IMG4 from '../assests/petpals.png'
 
 import '../portfolio/portfolio.css'
 import {useState} from 'react'
@@ -30,6 +31,14 @@ const data =[
     description : "Console application to order the food items according to the time basis.",
     
   },
+  {
+    id : 4,
+    image : IMG4,
+    title : "PetPals Connect",
+    github : "https://github.com/Sivasangeeth12/Pet-Adoption-System",
+    description : "A site to adopt Pets depending upon the user needs and managing the incoming and outgoing details.",
+    
+  }
 ]
 
 const Portfolio = () => {
